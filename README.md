@@ -17,7 +17,7 @@ A clean, modern, and responsive Finance Dashboard built with Next.js (App Router
 - **Detailed Data Table:** Displays transaction Date, Category, Type, and Amount.
 - **Advanced Filtering & Search:**
   - Fast category-based text search.
-  - Dropdown filtering isolating "Income" or "Expense".
+  - Dropdown filtering isolating "Income" or "Expense"
   - Complex multi-sorting capabilities (Date ascending/descending, Amount high/low).
 
 ### 3. Role-Based Features
